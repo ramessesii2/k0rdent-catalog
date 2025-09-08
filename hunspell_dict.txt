@@ -42,6 +42,7 @@ EKS
 Eventing
 ExternalDNS
 F5
+FinOps
 FIPs
 Falco
 FlashArray
@@ -112,11 +113,15 @@ OpenID
 OpenSearch
 OpenStack
 Orchestrators
+P10
+P50
+P90
 PGBouncer
 Passthrough
 Patroni
 Pluggable
 Prem
+Quantile
 RBAC
 RayCluster
 RayJob
